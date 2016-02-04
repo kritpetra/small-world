@@ -1,0 +1,32 @@
+#network {
+	float: left;
+}
+
+#statistics {
+	float: left;
+	margin: 20pt;
+}
+
+#degree_distribution {
+	float: left;
+}
+
+#geodesic_distribution {
+	float: left;
+}
+
+.model_description {
+	font-style: italic;
+	text-align: center;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.statistics {
+	text-align: center;
+	}
+	
+.bold {
+	font-weight: bold;
+	}
